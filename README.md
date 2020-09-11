@@ -21,3 +21,15 @@ Aprender lo basico de Base de Datos para poder realizar las consultas básicas d
   - DELETE se usa para eliminar datos existente
   - REPLACE es usado para cambiar o reemplazar datos nuevos o que ya existen
   - TRUNCATE comando para eliminar o vaciar la plantilla.
+
+Aprender PHP
+  - Arrays: de una dimensión y dos dimensiones;  crear modificar y eliminar
+  - Bucles: recorrer arrays con Bucles anidados
+  - Condicionales: if y switch
+  - Formularios
+  - Funciones
+  - Ficheros
+  - Sesiones
+  - Cookies
+  - Objetos
+  - CRUD (proyecto final)
