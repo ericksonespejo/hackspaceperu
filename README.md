@@ -21,7 +21,12 @@ Aprender lo basico de Base de Datos para poder realizar las consultas básicas d
   - DELETE se usa para eliminar datos existente
   - REPLACE es usado para cambiar o reemplazar datos nuevos o que ya existen
   - TRUNCATE comando para eliminar o vaciar la plantilla.
-
+Comandos terminal:
+  - mariadb -u "usadio" -p "clave"
+  - show databases, para listar o mostrar todas las bases de datos asosicado a un usuario
+  - use "nombre de la base de datos"; (sin las comillas).
+  - show tables; #para ver todas las tablas de la base de datos.
+  - describe "nombre de la tabla"; #para ver todas las filas que contiene la tabla nombrada
 Aprender PHP
   - Arrays: de una dimensión y dos dimensiones;  crear modificar y eliminar
   - Bucles: recorrer arrays con Bucles anidados
