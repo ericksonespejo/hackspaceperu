@@ -2,10 +2,10 @@
 Ruta de Aprendisaje para la primera semana
 
 Apreder Git y GitHub para poder realizar los controles de versión de cada progreso que voy haciendo
-  Git Init - para iniciar un nuevo repositorio o proyecto
-  git clone <repo url> para clonar un repositorio remoto exitente desde una url
-  Git add . / git add nombre / git add all usado para añadir los cambios realizados
-  Git commit para agregar el historial del repositorio
+  - Git Init - para iniciar un nuevo repositorio o proyecto
+  - git clone <repo url> para clonar un repositorio remoto exitente desde una url
+  - Git add . / git add nombre / git add all usado para añadir los cambios realizados
+  - Git commit para agregar el historial del repositorio
 
 Aprender lo basico de Base de Datos para poder realizar las consultas básicas desde PHP
   - CREATE DATABASE (para crear una base de datos en mariadb)
@@ -27,6 +27,7 @@ Comandos terminal:
   - use "nombre de la base de datos"; (sin las comillas).
   - show tables; #para ver todas las tablas de la base de datos.
   - describe "nombre de la tabla"; #para ver todas las filas que contiene la tabla nombrada
+  - grant all privileges on 'nombre de la base de datos'.* to usuario@'%' identified by 'clave', para asignar la base de datos a un usuario.
 Aprender PHP
   - Arrays: de una dimensión y dos dimensiones;  crear modificar y eliminar
   - Bucles: recorrer arrays con Bucles anidados
