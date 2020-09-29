@@ -16,7 +16,7 @@ Apreder Git y GitHub para poder realizar los controles de versión de cada progr
   - Git status Nos indica el estado del repositorio, por ejemplo cuales están modificados, cuales no están siendo seguidos por GIT, entre otras características.
   - Git push origin NombreDeBranch Luego de que hicimos un git commit, si estamos trabajando remotamente, este comando va a subir los archivos al repositorio remoto, específicamente al branch que indiquemos.
   - Git pull origin NombreDeBranch Hace una actualización en nuestro branch local, desde un branch remoto que indicamos en el comando.
-  - Git push para enviar lo cambios / tendremos que colocar nuestro nombre de usuario y clave
+  - Git push para publicar los commits locales / tendremos que colocar nuestro nombre de usuario y clave
 
 Aprender lo basico de Base de Datos para poder realizar las consultas básicas desde PHP
   - CREATE DATABASE (para crear una base de datos en mariadb)
